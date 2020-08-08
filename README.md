@@ -1,2 +1,4 @@
 # deeplearning_a_z
- Este repositório contem mminhas anotações e exercícios do curso Deep Learning do professor Jones Granatyr
+ Este repositório contém minhas anotações e exercícios do curso Deep Learning do professor Jones Granatyr.
+
+ ## Seção 4 - Calssificação binária
