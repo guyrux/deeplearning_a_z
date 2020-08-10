@@ -1,3 +1,10 @@
+#folders
 .vscode/
 venv/
+.ipynb_checkpoints/
+
+#files inside folders
+data/*
+
+#filetypes
 *.code-workspace
